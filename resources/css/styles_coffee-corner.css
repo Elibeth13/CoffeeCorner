@@ -837,6 +837,7 @@ img.scroll-to-top {
 }
 
 .top:active {
+  cursor: pointer;
   background-color: transparent;
 }
 
